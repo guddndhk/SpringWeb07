@@ -24,7 +24,7 @@
 		[ ■  info ] :: ${ requestScope.message } <br/><br/>
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 	
-		<p>Simple Model2 Examples</p>
+		<p>Simple Model2 Examples!!!!</p>
 		<p> 환영합니다.  : <%= sessionUser.getUserId()%>님</p>
 		<br/><br/>
 		<a href = "logout.do">logout</a>
